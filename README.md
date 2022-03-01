@@ -1,3 +1,3 @@
 # Netflix-back
 
-Liens de déploiement : https://netflix-back-sj.herokuapp.com/
+Lien de déploiement : https://netflix-back-sj.herokuapp.com/
